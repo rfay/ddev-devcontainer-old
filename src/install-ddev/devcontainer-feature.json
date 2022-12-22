@@ -2,5 +2,5 @@
     "name": "Install DDEV for Codespaces",
     "id": "install-ddev",
     "version": "0.0.2",
-    "description": "DDEV feature for Codespaces/devcontainers",
+    "description": "DDEV feature for Codespaces/devcontainers"
 }
